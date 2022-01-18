@@ -1,0 +1,8 @@
+.main-container-flex{
+
+    text-align: center;border: 2px solid rebeccapurple;justify-content: space-evenly ;display: flex; flex-direction: row
+}
+
+.main-container-flex div{
+border: 2px solid greenyellow;margin: 4px; background: red;
+}
